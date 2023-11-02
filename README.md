@@ -1,9 +1,13 @@
+# How use cd
+1) Move in folder in terminal ```cd NameOfFolder```
+2) Move back in folder ```cd ../```
+3) Dont forget save the progress CTRL+S
 # How to make pull request:
 1) Create a new branch ```git checkout -b new-test-branch```
 2) Select the files you want to send ```git add ```
 3) Add a commit ```git commit -m "test commit"```
 4) Take a push commit ```git push origin new-test-branch```
-5) Open a project on GitHub ```https://github.com/dimseon/Incrision```
+5) Open a project on GitHub ```https://github.com/MrColteR/TelegramBot```
 6) Create a pull request on your branch
 7) Link your branch to your issue using ```#number_of_your_issue```
 # How to get pull request:
