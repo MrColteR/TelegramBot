@@ -22,3 +22,8 @@ Pull request ```git pull```
    4.3 If you have more conflicts, repeat 4.1 and 4.2  
    4.4.1 Would you can't resolve the conflict, you may skip conflict ```git rebase --skip```  
    4.4.2 Would you want cancel rebase ```git rebase --abort```  
+# How to delete a branch locally on your computer:
+1) remove branch ```git branch -D nameOfBranch```
+# How to delete a branch on github:
+1) Go to the branch that need to be deleted on Github ```git checkout nameOfBranch```
+2) Push with parameter ```git push --delete nameOfBranch```
